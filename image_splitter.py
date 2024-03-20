@@ -1,6 +1,7 @@
 '''
 This file contains an image converter which formats an image to be 
-recognised by the number_splitter functin and 
+recognised by the number_splitter functin and the format that is
+recognised by the tensorflow MNIST dataset.
 '''
 import cv2 as cv
 import numpy as np
